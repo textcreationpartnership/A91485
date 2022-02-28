@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two famous battels fought in Ireland: Wherin the Protestants under the command of the Earle of Ormond, Sr. Charles Coote, and Sr. Simon Harcourt, slew great numbers of the rebels, routing them from one town to another, and took divers prisoners to their great joy and comfort. Faithfully related in a letter, sent from Mr. Ralph Parsons in Dublin, to Sr. William Brewerton, a worthy member of the House of Commons. Received by the last post, February 23. 1641. Whereunto is added, The brave adventures and victorious exploits of Captain Thomas Steutevile, neere unto the town of Drogheda in Ireland.</title>
+            <author>Parsons, Ralph, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91485</idno>
+            <idno type="STC">Wing P562A</idno>
+            <idno type="STC">Thomason E135_45</idno>
+            <idno type="STC">ESTC R14737</idno>
+            <idno type="EEBO-CITATION">99859727</idno>
+            <idno type="PROQUEST">99859727</idno>
+            <idno type="VID">156459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156459)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two famous battels fought in Ireland: Wherin the Protestants under the command of the Earle of Ormond, Sr. Charles Coote, and Sr. Simon Harcourt, slew great numbers of the rebels, routing them from one town to another, and took divers prisoners to their great joy and comfort. Faithfully related in a letter, sent from Mr. Ralph Parsons in Dublin, to Sr. William Brewerton, a worthy member of the House of Commons. Received by the last post, February 23. 1641. Whereunto is added, The brave adventures and victorious exploits of Captain Thomas Steutevile, neere unto the town of Drogheda in Ireland.</title>
+                  <author>Parsons, Ralph, 17th cent.</author>
+                  <author>Stuteville, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coote, Charles, --  Sir, d. 1642 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156459:1" rendition="simple:additions"/>
+            <p>
+               <hi>Two famous Battels fought in</hi> Ireland: Wherein the Proteſtants under the command of the Earle of <hi>Ormond,</hi> Sr. <hi>Charles Coote,</hi> and Sr. <hi>Simon Harcourt,</hi> ſlew great numbers of the Rebels, routing them from one Town to another, and tooke divers priſoners to their great joy and comfort.</p>
+            <p>Faithfully related in a Letter, ſent from Mr. <hi>Ralph Parſons</hi> in <hi>Dublin,</hi> to Sr. <hi>William Brewerton,</hi> a worthy Member of the Houſe of Commons.</p>
+            <p>Received by the last Post, February 23. 1641.</p>
+            <p>Whereunto is added, The brave Adventures and Victorious exploits of Captain <hi>Thomas Steutevile,</hi> neere unto the Town of <hi>Drogheda</hi> in IRELAND.</p>
+            <figure>
+               <figDesc>two soldiers</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>J. Wright,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156459:2"/>
+            <pb n="1" facs="tcp:156459:2"/>
+            <opener>
+               <dateline>
+                  <date>February 19, 1641.</date>
+               </dateline>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Now ſend you all the newes from the parts a<g ref="char:EOLhyphen"/>bout <hi>Dublin,</hi> from the other Provinces wee have none.</p>
+            <p>Letters of the twelfth give us, that the Earle of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmond,</hi> Sir <hi>Charles Coote,</hi> and Sir <hi>Simon Harcourt,</hi> went with two Thouſand foot, and three Hundred horſe to the <hi>Naſe,</hi> the firſt night they lay at <hi>New-caſtle,</hi> ſeven miles from <hi>Dublin,</hi> that evening they ſent to <hi>Racoole</hi> two hundred horſe to burne what was left, one Hundred went to the Town, the other ſtaid in ambuſh, they no ſooner came to the Town, but they were encountred with one Thouſand Rogues, the horſe retired to their ambuſh, which made the Rebels follow hard after them, in diſorder, which the horſe perceiving, both troopes charged home and killed numbers of them, and ſo burnt the Towne, next day the Army went to the <hi>Naſe,</hi> which they burnt not, the Rebels durſt not abide their comming, the Souldiers got very much pillage, and ſo backe to <hi>New-Caſtle,</hi> they have burnt all the Townes this ſide the <hi>Naſe,</hi> I ſhall not trouble you with their names, ſome priſoners of quality taken, as the <hi>Aſheſs</hi> and <hi>Aylmores.</hi>
+            </p>
+            <p>The twelfth of this inſtant, the Lord <hi>Lambert</hi> went forth of <hi>Dublin,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a place called <hi>Lauglinſton,</hi> where were a Thou<g ref="char:EOLhyphen"/>ſand Rogues, the Lord fought with the Rebels, rou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed them and kil'd above a hundred, took much Pillage, and ſo returned
+<pb n="2" facs="tcp:156459:3"/>
+home, in all theſe actions wherein you may ſee Gods great goodneſſe we loſt not one man, but a Souldier hurt, the Lord <hi>Lambert</hi> brought home ſome twenty priſoners, which I be<g ref="char:EOLhyphen"/>leeve are now hanged, there came one Captaine <hi>Codogan</hi> the fifth of this Month from <hi>Tredagh</hi> by Sea, he went away again the twelfth, and there was to follow him inſtantly three Ships, and ſome ten Gabards to victuall the Town for two months, I pray God ſend them ſafe, he brings newes that all are wel there, and have kil'd above a thouſand of the Rebels, ſince Sir <hi>Henry Tichburnes</hi> being there, the Lord <hi>Moore</hi> ſhews himſelfe a gallant man, and ventures as far as any man: there is a jury at the Kings Bench, where are indited the Freehol<g ref="char:EOLhyphen"/>ders of the Countries of <hi>Dublin, Kildar, Meath,</hi> and <hi>Wicklar,</hi> I beleeve they will not appeare, then the Bills of Treaſon cannot but paſſe.</p>
+            <p>I am confident the King will get land enough to plant a better, and a more permament generation, and Gods true wor<g ref="char:EOLhyphen"/>ſhip ſetled. Sin you may ſee how the caſe ſtands about <hi>Dublin,</hi> I doubt not but where reſiſtance is made in other parts, the Engliſh will do the like; if the King and Parliament pleaſe, that our ſuccours goe overſpeedily, we ſhall be able to run through the Kingdome, for aſſure your ſelfe the Rebels want powder, &amp; that m ght be ſtopt, if ſhipping were on the coaſt to keep away that proviſion, ſo conſequently the worke the ſhorter. There hath not a paſſage been made to <hi>Dublin</hi> from hence this ſixe weekes, I beleeve the reaſon the Poſt boats dare not venture, but with a very faire winde, leaſt they be driven amongſt the Rebels, ſome Pinnace with Ordnance for that purpoſe were very convenient, that would not care to go in all weathers, and would be able to defend her ſelfe, if occaſion were, I ſend you a Proclamation which gives you what the ſtate do there. We heare that Sir <hi>Nicholas White</hi> and his eldeſt ſon are for Treaſon in the Caſtle, he is a great
+<pb n="3" facs="tcp:156459:3"/>
+and leading man in the Country of <hi>Kildare,</hi> I beleeve by this ſomething is done with him at the Kings Bench Bar; the of<g ref="char:EOLhyphen"/>fence, that he ſtood on his Caſtle at <hi>Lexis,</hi> where the poore Engliſh were Pillaged, and that the Commanders were in his houſe, and ſome of the Pillage found there, his ſon at the <hi>Naſe</hi> with the Rebels, he is father in law to the Lord <hi>Caſtello,</hi> and Maſter <hi>Tafe,</hi> there may be ſome working, but you know what to do.</p>
+            <p>Sir I am affraid I am too troubleſome, I ſhall take my leave and ſhall over be</p>
+            <closer>
+               <signed>Yours to do you faithfull ſervice <hi>RALPH PARSONS.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>I hope to morrow morning our Souldiers will under ſayle, all reardy for that.</p>
+            </postscript>
+         </div>
+         <div type="historical_account">
+            <pb n="4" facs="tcp:156459:4"/>
+            <head>A TRUE RELATION Of thoſe paſſages vvhich hap<g ref="char:EOLhyphen"/>pened unto Captain <hi>Thomas Steute<g ref="char:EOLhyphen"/>vile,</hi> unto the Town of <hi>Droghedagh,</hi> elſe <hi>Tredagh.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N Sunday, Captaine <hi>Stutevile</hi> late in the night ſet ſaile, having with him the <hi>Swan,</hi> two Frig<g ref="char:EOLhyphen"/>gots, one Gubard, and two long Boats. And going along the Coaſts, the Captain ſent out of the <hi>Swan</hi> ſome Muſqueteeres to the Sherreis, where he found the enemy fled, but had left behind them much goods, which being all taken aboord by them, they ſet the Town on fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: and with it got above 500 l. worth of Corn. Then returning unto their Ship on Tueſday, they came ſafe to the Bar of <hi>Droghedah,</hi> where Captain <hi>Stutevile</hi> with his five ſmall Veſſels loaden with Victuals and Ammu<g ref="char:EOLhyphen"/>nition put over, and went up the River not without much danger; the Rebels having made a kind of a Block houſe upon the entrance into the River, whereon they had planted two pieces of Ordnance, and all along in Treaches within both ſides of the River were placed Muſq<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eteers; and hee
+<pb n="5" facs="tcp:156459:4"/>
+being not able to paſſe, but continually within Muſquet-ſhot of either, for two miles together; his Ordnance but ſeldome availing him any thing (by reaſon of the heigth of the ſhore above him;) yet (God be thanked) he got ſafe within the Town with his Veſſels, without the loſſe of a man (he having with him 124 Muſqueteers, beſides Ship men.) But to ex<g ref="char:EOLhyphen"/>preſſe the joy of the Souldiers in the Town, requires a quick<g ref="char:EOLhyphen"/>er Genius than mine own, or at leaſt one that had felt their wants. The Rebels ſuppoſing that there would be ſuch joy, and that by reaſon of the Souldiers, now having ſtore of vi<g ref="char:EOLhyphen"/>ctuals, they would altogether drown themſelves in ſecurity, (as it is thought) dealt under hand with ſome Centuries that were on the Wals, and brake in at a place where there had been a Shallop-Port, ſo that two might come with ſtooping low, on a breaſt; in at which, 'tis certain 500 got, and mar<g ref="char:EOLhyphen"/>ched a great way into the Town, untill at laſt one of their chiefe Captaines was perceived by a common Souldier of ours, to turn a Peece of Ordance that ſtood upon the bridge, towards the Town.</p>
+            <p>The Souldiers ſeeing this, ſhot, and kill'd the Captain, and gave the Allarum. Wherupon our Souldiers gathered ſo faſt, that they wholly diſcovered the Rebels, and had the killing of 160 of them, and took priſoners 40, ſome eſcaped tho<g ref="char:EOLhyphen"/>row the place they came in at, and others over the Wall, yet many brake their necks at that ſport; ſome one 100 is thought to be yet in the Town, hidden in Papiſts houſes, and is con<g ref="char:EOLhyphen"/>feſſed by ſome of the houſholders that were found faulty that way; that it was intended by rhe Townſmen, to have cut the throats of all the Officers that lay in their houſes, upon this aſſault. But (God be thanked) in all this we loſt not one man. And on Thurſday, Captain <hi>Steutevile</hi> ſet forth out of the Towne, and came with leſſe danger than before to the Bar, where he was on ground, and was forced to ſtay for
+<pb n="6" facs="tcp:156459:5"/>
+want of water; for the Tyde being ſpent, he lay in a manner dry, the reſt of the Shipping forſaking him; whereupon the enemies came down, thinking to have taken him and his Ship; but he laid about him ſo wel, that he killed 20 of them; yet they not contented with this (but like deſperate villains) got underneath the ſtern of the Ship ſome 30 of them, where he could do them little hurt, and there they be laboured them<g ref="char:EOLhyphen"/>ſelves with a Pick-axe and a crow of iron, and brake the Ship almoſt through; whereupon he threw ſome ſix Granadoes amongſt them, and they finding themſelves fewer by ſix, by reaſon of them, and many of themſelves to want plaſters a<g ref="char:EOLhyphen"/>bout the thighes and ſhins; and the 7<hi rend="sup">th</hi> caſt, thought their heels their beſt ſafegard, leaving behind them ſome Pikes and Swords, one Target, Picke-axe, and a crow of iron. Then he finding himſelfe quit of them, the next Tyde hoyſted up ſayles, and came in this day ſafe into our Town of <hi>Dublin;</hi> but we cannot heare any certainty of the other Veſſels that for<g ref="char:EOLhyphen"/>ſooke him, only we feare that by reaſon of the winds, they were driven Northerly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
